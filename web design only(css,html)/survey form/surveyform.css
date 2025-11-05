@@ -1,0 +1,56 @@
+body{
+  background-color: aliceblue;
+  font-family: Inter;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+}
+h1{
+  font-size: 32px;
+  color: black;
+  text-align: center;
+}
+p{
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
+form{
+  display: block;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  background-color: black;
+  border-radius: 15px;
+  padding-left: 2rem;
+  padding-top: 2rem;
+  font-size: 20px;
+  padding-right: 1rem;
+}
+label{
+  display:block;
+  padding-bottom: 20px;
+}
+option{
+
+}
+input{
+  display:inline-block;
+  height: 20px;
+}
+#submit{
+  margin-left: 5.5rem;
+  margin-top: 1rem;
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  margin-bottom: 2rem;
+}#submit:hover{
+  background-color: black;
+  border: 2px solid white;
+  border-radius: 20px;
+  color: white;
+}
